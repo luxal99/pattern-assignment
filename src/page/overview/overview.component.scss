@@ -1,0 +1,9 @@
+.overview {
+  margin: 5em;
+  display: flex;
+  justify-content: space-between;
+  gap: 2em;
+  &--column{
+    width: 50%;
+  }
+}
